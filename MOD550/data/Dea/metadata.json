@@ -1,0 +1,44 @@
+{
+    "Project": "2D Dataset Generator",
+    "Author": "Svetlana Andrusenko",
+    "Email": "283721@uis.no",
+    "Created On": "2025-02-02 15:16:15",
+    "Description": "This project generates and visualizes synthetic datasets using a quadratic function with noise and random uniform distribution.",
+    "Data Details": {
+        "Quadratic Data": {
+            "Points": 100,
+            "Equation": "y = 1 * x^2 + 2 + noise",
+            "Noise Mean": 16,
+            "Noise Std": 100
+        },
+        "Random Data": {
+            "Points": 100,
+            "X Range": "[-20, 20]",
+            "Y Range": "[-500, 500]"
+        },
+        "Final Dataset": {
+            "Initial Shape": [
+                100,
+                2
+            ],
+            "Final Shape": [
+                200,
+                2
+            ],
+            "Output Files": [
+                "dataset.csv",
+                "dataset.txt"
+            ]
+        }
+    },
+    "Execution": {
+        "Python Version": "3.9+",
+        "Dependencies": [
+            "numpy",
+            "matplotlib"
+        ],
+        "Usage": "Run exercise_1.py to generate and visualize datasets."
+    },
+    "License": "MIT",
+    "Ethical Considerations": "Synthetic data for educational use."
+}

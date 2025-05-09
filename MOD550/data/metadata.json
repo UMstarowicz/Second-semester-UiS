@@ -1,0 +1,27 @@
+{
+    "MOD550 ASSIGNMENT": "Dataset Generation",
+    "Student": {
+        "Name": "Urszula Starowicz",
+        "Email": "283591@uis.no",
+        "Github": "SaiPieGiera"
+    },
+    "Title": "Random Dataset Generation and Analysis",
+    "Description": "This dataset consists of two randomly generated datasets that are combined together.",
+    "Parameters": {
+        "num_points": 200,
+        "noise_level": 16
+    },
+    "Dataset Details": {
+        "Total Points": 400,
+        "Dataset 1 Points": 200,
+        "Dataset 2 Points": 200,
+        "Mean of combined dataset": [
+            0.493725505438887,
+            0.48957637387973046
+        ],
+        "Standard deviation of combined dataset": [
+            0.2894302855950384,
+            0.29462988766462106
+        ]
+    }
+}

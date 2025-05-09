@@ -1,0 +1,9 @@
+{
+    "n_points": 200,
+    "x_range": [
+        0,
+        20
+    ],
+    "noise_level": 0.5,
+    "seed": 42
+}
