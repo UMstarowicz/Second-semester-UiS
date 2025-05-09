@@ -4,4 +4,6 @@ This repository includes codes and projects from courses from the second semeste
 - Fundaments of Machine learning for and with engineering applications - coding exercises and class assignments
 - Computational Fluid Dynamics
 - Data-driven modeling of conservation laws - projects:
-  	* Project 1
+  	* Project 1 - Modeling traffic jams in intracellular transport in axons
+  	* Project 2 - Modeling treffic jam
+  	* Project 3 - Using Monte Carlo Markov Chain (MCMC) to identify unknown flux function from observation data
